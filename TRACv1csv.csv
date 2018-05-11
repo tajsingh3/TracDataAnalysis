@@ -1,0 +1,102 @@
+
+Serial,Description,SBU,Scope,Review Frequency,Last review date,Next review date,Days (next review),Expired,Regulatory,Approved,Responsibility,Note
+1,Policy1,Retail,Provision,Annually,19-Oct-16,20-Oct-18,340,No,Yes,Approved,Retail Head,Update required
+2,Policy2,Corporate,Lending,Monthly,20-Oct-16,21-Oct-18,341,No,Yes,Approved,Corporate Head,
+3,Policy3,Treasury,FX,Daily,21-Oct-15,22-Oct-16,-388,Yes,Yes,Unapproved,Treasury Head,
+4,Policy4,Financial,Accounting,Annually,22-Oct-16,23-Oct-18,343,No,No,Approved,Financial Head,Draft
+5,Policy5,Operations,Expenses,Monthly,23-Oct-16,24-Oct-18,344,No,Yes,Approved,Operations Head,
+6,Policy6,Human resources,Talent Acq,Quarterly,24-Oct-16,25-Oct-18,345,No,Yes,Approved,HR Head,
+7,Policy7,Investments,Ratios,Daily,25-Oct-16,26-Oct-18,346,No,Yes,Approved,Investment Head,
+8,Policy8,RMC,Charter,Annually,26-Oct-16,27-Oct-18,347,No,Yes,Approved,RMC - CRO,
+9,Policy9,Accounts,Books,Daily,27-Oct-14,28-Oct-15,-748,Yes,No,Unapproved,Accounts - CFO,Urgent
+10,Policy10,Infotech,Network,Weekly,28-Oct-15,29-Oct-15,-747,Yes,No,Unapproved,IT Head,Technical
+11,Policy11,Retail,Provision1,Annually,29-Oct-15,29-Nov-15,-716,Yes,Yes,Unapproved,Retail Head,
+12,Policy12,Corporate,Lending1,Monthly,30-Oct-15,29-Dec-15,-686,Yes,Yes,Unapproved,Corporate Head,
+13,Policy13,Treasury,FX1,Daily,2-Nov-15,29-Jan-16,-655,Yes,Yes,Unapproved,Treasury Head,
+14,Policy14,Financial,Accounting1,Annually,3-Nov-15,29-Feb-16,-624,Yes,Yes,Unapproved,Financial Head,
+15,Policy15,Operations,Expenses1,Monthly,4-Nov-15,29-Mar-16,-595,Yes,Yes,Unapproved,Operations Head,
+16,Policy16,Human resources,Talent Acq1,Quarterly,5-Nov-15,29-Apr-16,-564,Yes,Yes,Unapproved,HR Head,
+17,Policy17,Investments,Ratios1,Daily,6-Nov-15,29-May-16,-534,Yes,Yes,Unapproved,Investment Head,Update required
+18,Policy18,RMC,Charter1,Annually,9-Nov-15,29-Jun-16,-503,Yes,Yes,Unapproved,RMC - CRO,
+19,Policy19,Accounts,Books1,Daily,10-Nov-15,29-Jul-16,-473,Yes,Yes,Unapproved,Accounts - CFO,
+20,Policy20,Infotech,Network1,Weekly,11-Nov-15,29-Aug-16,-442,Yes,Yes,Unapproved,IT Head,Draft
+21,Policy21,Retail,Provision2,Annually,12-Nov-15,29-Sep-16,-411,Yes,Yes,Unapproved,Retail Head,
+22,Policy22,Corporate,Lending2,Monthly,13-Nov-15,29-Oct-16,-381,Yes,Yes,Unapproved,Corporate Head,
+23,Policy23,Treasury,FX2,Daily,16-Nov-15,29-Nov-16,-350,Yes,Yes,Unapproved,Treasury Head,
+24,Policy24,Financial,Accounting2,Annually,17-Nov-15,29-Dec-16,-320,Yes,Yes,Unapproved,Financial Head,
+25,Policy25,Operations,Expenses2,Monthly,18-Nov-15,29-Jan-17,-289,Yes,Yes,Unapproved,Operations Head,Urgent
+26,Policy26,Human resources,Talent Acq2,Quarterly,19-Nov-15,28-Feb-17,-259,Yes,Yes,Unapproved,HR Head,Technical
+27,Policy27,Investments,Ratios2,Daily,20-Nov-15,29-Mar-17,-230,Yes,Yes,Unapproved,Investment Head,
+28,Policy28,RMC,Charter2,Annually,23-Nov-15,29-Apr-17,-199,Yes,Yes,Unapproved,RMC - CRO,
+29,Policy29,Accounts,Books2,Daily,24-Nov-15,29-May-17,-169,Yes,Yes,Unapproved,Accounts - CFO,
+30,Policy30,Infotech,Network2,Weekly,25-Nov-15,29-Jun-17,-138,Yes,Yes,Unapproved,IT Head,
+31,Policy31,Retail,Provision3,Annually,26-Nov-15,29-Jul-17,-108,Yes,Yes,Unapproved,Retail Head,
+32,Policy32,Corporate,Lending3,Monthly,27-Nov-15,29-Aug-17,-77,Yes,Yes,Unapproved,Corporate Head,
+33,Policy33,Treasury,FX3,Daily,30-Nov-15,29-Sep-17,-46,Yes,Yes,Unapproved,Treasury Head,
+34,Policy34,Financial,Accounting3,Annually,1-Dec-15,29-Oct-17,-16,Yes,Yes,Unapproved,Financial Head,
+35,Policy35,Operations,Expenses3,Monthly,2-Dec-15,29-Nov-17,15,No,Yes,Approved,Operations Head,
+36,Policy36,Human resources,Talent Acq3,Quarterly,3-Dec-15,29-Dec-17,45,No,Yes,Approved,HR Head,Update required
+37,Policy37,Investments,Ratios3,Daily,4-Dec-15,29-Jan-18,76,No,Yes,Approved,Investment Head,
+38,Policy38,RMC,Charter3,Annually,7-Dec-15,28-Feb-18,106,No,Yes,Approved,RMC - CRO,
+39,Policy39,Accounts,Books3,Daily,8-Dec-15,29-Mar-18,135,No,Yes,Approved,Accounts - CFO,Draft
+40,Policy40,Infotech,Network3,Weekly,9-Dec-15,29-Apr-18,166,No,Yes,Approved,IT Head,
+41,Policy41,Retail,Provision4,Annually,10-Dec-15,29-May-18,196,No,Yes,Approved,Retail Head,
+42,Policy42,Corporate,Lending4,Monthly,11-Dec-15,29-Jun-18,227,No,Yes,Approved,Corporate Head,
+43,Policy43,Treasury,FX4,Daily,14-Dec-15,29-Jul-18,257,No,Yes,Approved,Treasury Head,
+44,Policy44,Financial,Accounting4,Annually,15-Dec-15,29-Aug-18,288,No,Yes,Approved,Financial Head,Urgent
+45,Policy45,Operations,Expenses4,Monthly,16-Dec-15,29-Sep-18,319,No,Yes,Approved,Operations Head,Technical
+46,Policy46,Human resources,Talent Acq4,Quarterly,17-Dec-15,29-Oct-18,349,No,Yes,Approved,HR Head,
+47,Policy47,Investments,Ratios4,Daily,18-Dec-15,29-Nov-18,380,No,Yes,Approved,Investment Head,
+48,Policy48,RMC,Charter4,Annually,21-Dec-15,29-Dec-18,410,No,Yes,Approved,RMC - CRO,
+49,Policy49,Accounts,Books4,Daily,22-Dec-15,29-Jan-19,441,No,Yes,Approved,Accounts - CFO,
+50,Policy50,Infotech,Network4,Weekly,23-Dec-15,28-Feb-19,471,No,Yes,Approved,IT Head,
+51,Procedure1,Retail,Provision5,Annually,24-Dec-15,29-Mar-19,500,No,Yes,Approved,Retail Head,
+52,Procedure2,Corporate,Lending5,Monthly,25-Dec-15,29-Apr-19,531,No,Yes,Approved,Corporate Head,Update required
+53,Procedure3,Treasury,FX5,Daily,28-Dec-15,29-May-19,561,No,Yes,Approved,Treasury Head,
+54,Procedure4,Financial,Accounting5,Annually,29-Dec-15,29-Jun-19,592,No,Yes,Approved,Financial Head,
+55,Procedure5,Operations,Expenses5,Monthly,30-Dec-15,29-Jul-19,622,No,Yes,Approved,Operations Head,Draft
+56,Procedure6,Human resources,Talent Acq5,Quarterly,31-Dec-15,29-Aug-19,653,No,Yes,Approved,HR Head,
+57,Procedure7,Investments,Ratios5,Daily,1-Jan-16,29-Sep-19,684,No,Yes,Approved,Investment Head,
+58,Procedure8,RMC,Charter5,Annually,4-Jan-16,29-Oct-19,714,No,Yes,Approved,RMC - CRO,
+59,Procedure9,Accounts,Books5,Daily,5-Jan-16,29-Nov-19,745,No,Yes,Approved,Accounts - CFO,
+60,Procedure10,Infotech,Network5,Weekly,6-Jan-16,29-Dec-19,775,No,Yes,Approved,IT Head,Urgent
+61,Procedure11,Retail,Provision6,Annually,7-Jan-16,29-Jan-20,806,No,Yes,Approved,Retail Head,Technical
+62,Procedure12,Corporate,Lending6,Monthly,8-Jan-16,29-Feb-20,837,No,Yes,Approved,Corporate Head,
+63,Procedure13,Treasury,FX6,Daily,11-Jan-16,29-Mar-20,866,No,Yes,Approved,Treasury Head,
+64,Procedure14,Financial,Accounting6,Annually,12-Jan-16,29-Apr-20,897,No,Yes,Approved,Financial Head,
+65,Procedure15,Operations,Expenses6,Monthly,13-Jan-16,29-May-20,927,No,Yes,Approved,Operations Head,
+66,Procedure16,Human resources,Talent Acq6,Quarterly,14-Jan-16,29-Jun-20,958,No,Yes,Approved,HR Head,
+67,Procedure17,Investments,Ratios6,Daily,15-Jan-16,29-Jul-20,988,No,Yes,Approved,Investment Head,
+68,Procedure18,RMC,Charter6,Annually,18-Jan-16,29-Aug-20,1019,No,Yes,Approved,RMC - CRO,
+69,Procedure19,Accounts,Books6,Daily,19-Jan-16,29-Sep-20,1050,No,Yes,Approved,Accounts - CFO,
+70,Procedure20,Infotech,Network6,Weekly,20-Jan-16,29-Oct-20,1080,No,Yes,Approved,IT Head,Update required
+71,Procedure21,Retail,Provision7,Annually,21-Jan-16,29-Nov-20,1111,No,Yes,Approved,Retail Head,
+72,Procedure22,Corporate,Lending7,Monthly,22-Jan-16,29-Dec-20,1141,No,Yes,Approved,Corporate Head,
+73,Procedure23,Treasury,FX7,Daily,25-Jan-16,29-Jan-21,1172,No,Yes,Approved,Treasury Head,Draft
+74,Procedure24,Financial,Accounting7,Annually,26-Jan-16,28-Feb-21,1202,No,Yes,Approved,Financial Head,
+75,Procedure25,Operations,Expenses7,Monthly,27-Jan-16,29-Mar-21,1231,No,Yes,Approved,Operations Head,
+76,Procedure26,Human resources,Talent Acq7,Quarterly,28-Jan-16,29-Apr-21,1262,No,Yes,Approved,HR Head,
+77,Procedure27,Investments,Ratios7,Daily,29-Jan-16,29-May-21,1292,No,Yes,Approved,Investment Head,
+78,Procedure28,RMC,Charter7,Annually,1-Feb-16,29-Jun-21,1323,No,Yes,Approved,RMC - CRO,Urgent
+79,Procedure29,Accounts,Books7,Daily,2-Feb-16,29-Jul-21,1353,No,Yes,Approved,Accounts - CFO,Technical
+80,Procedure30,Infotech,Network7,Weekly,3-Feb-16,29-Aug-21,1384,No,Yes,Approved,IT Head,
+81,Procedure31,Retail,Provision8,Annually,4-Feb-16,29-Sep-21,1415,No,Yes,Approved,Retail Head,
+82,Procedure32,Corporate,Lending8,Monthly,5-Feb-16,29-Oct-21,1445,No,Yes,Approved,Corporate Head,
+83,Procedure33,Treasury,FX8,Daily,8-Feb-16,29-Nov-21,1476,No,Yes,Approved,Treasury Head,
+84,Procedure34,Financial,Accounting8,Annually,9-Feb-16,29-Dec-21,1506,No,Yes,Approved,Financial Head,
+85,Procedure35,Operations,Expenses8,Monthly,10-Feb-16,29-Jan-22,1537,No,Yes,Approved,Operations Head,
+86,Procedure36,Human resources,Talent Acq8,Quarterly,11-Feb-16,28-Feb-22,1567,No,Yes,Approved,HR Head,
+87,Procedure37,Investments,Ratios8,Daily,12-Feb-16,29-Mar-22,1596,No,Yes,Approved,Investment Head,
+88,Procedure38,RMC,Charter8,Annually,15-Feb-16,29-Apr-22,1627,No,Yes,Approved,RMC - CRO,Update required
+89,Procedure39,Accounts,Books8,Daily,16-Feb-16,29-May-22,1657,No,Yes,Approved,Accounts - CFO,
+90,Procedure40,Infotech,Network8,Weekly,17-Feb-16,29-Jun-22,1688,No,Yes,Approved,IT Head,
+91,Procedure41,Retail,Provision9,Annually,18-Feb-16,29-Jul-22,1718,No,Yes,Approved,Retail Head,Draft
+92,Procedure42,Corporate,Lending9,Monthly,19-Feb-16,29-Aug-22,1749,No,Yes,Approved,Corporate Head,
+93,Procedure43,Treasury,FX9,Daily,22-Feb-16,29-Sep-22,1780,No,Yes,Approved,Treasury Head,
+94,Procedure44,Financial,Accounting9,Annually,23-Feb-16,29-Oct-22,1810,No,Yes,Approved,Financial Head,
+95,Procedure45,Operations,Expenses9,Monthly,24-Feb-16,29-Nov-22,1841,No,Yes,Approved,Operations Head,
+96,Procedure46,Human resources,Talent Acq9,Quarterly,25-Feb-16,29-Dec-22,1871,No,Yes,Approved,HR Head,Urgent
+97,Procedure47,Investments,Ratios9,Daily,26-Feb-16,29-Jan-23,1902,No,Yes,Approved,Investment Head,Technical
+98,Procedure48,RMC,Charter9,Annually,29-Feb-16,28-Feb-23,1932,No,Yes,Approved,RMC - CRO,
+99,Procedure49,Accounts,Books9,Daily,1-Mar-16,29-Mar-23,1961,No,Yes,Approved,Accounts - CFO,
+100,Procedure50,Infotech,Network9,Weekly,2-Mar-16,29-Apr-23,1992,No,Yes,Approved,IT Head,
