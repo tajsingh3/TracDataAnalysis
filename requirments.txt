@@ -1,0 +1,6 @@
+Django==1.11.2
+numpy==1.14.3
+pandas==0.20.3
+python-dateutil==2.7.3
+pytz==2018.4
+six==1.11.0
